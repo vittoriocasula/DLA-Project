@@ -1,0 +1,7 @@
+To get you started, you should be able to recreate an Anaconda environment suitable for this lab using:
+
+conda create -n Lab1_DLA -c conda-forge jupyterlab ipython matplotlib scikit-learn tqdm pytorch torchvision tensorboard
+
+and then activate it and fire up the notebook with:
+
+ jupyter lab Lab1-CNNs.ipynb
