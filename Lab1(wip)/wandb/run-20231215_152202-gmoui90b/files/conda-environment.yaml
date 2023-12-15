@@ -343,5 +343,5 @@ dependencies:
     - smmap==5.0.1
     - torchview==0.2.6
     - torchviz==0.0.2
-    - wandb==0.16.0
+    - wandb==0.16.1
 prefix: /home/dl23vitcas/anaconda3/envs/Lab1_DLA
