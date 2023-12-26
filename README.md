@@ -1,3 +1,3 @@
 # DLA-Project
 
-Questo repository contiene gli esercizi previsti per il corso di Deep Learning Applications della Laurea Magistrale in Intelligenza Artificiale dell'Università di Firenze. Tutti i dettagli di installazione, degli esperimenti svolti sono visibili direttamente nei notebook dei singoli esercizi.
+This repository contains the exercises expected for the Deep Learning Applications course of the Master’s Degree in Artificial Intelligence of the University of Florence. All the installation details of the experiments carried out are visible directly in the notebooks of the individual exercises.
