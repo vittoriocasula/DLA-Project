@@ -6,7 +6,7 @@ Before running lab1, lab2 and lab4, you have to download the pretrained models a
 https://drive.google.com/drive/folders/1FMR0zCR1yh_IyFNWdcmQZbmbF3mbqOAH?usp=sharing
 
 Instructions:
-- git clone https://github.com/vittoriocasula/DLA-Project.git
+- `git clone https://github.com/vittoriocasula/DLA-Project.git`
 - download pretrained models
 - copy the contents of the folder "labX" just downloaded into the corresponding folder "labX" (X = 1,2,4)
 - read the installation instruction in the notebook
